@@ -1,8 +1,8 @@
 module.exports = [
   {
     "subscribe": 1,
-    "openid": "o7Zv3s_F0N-h09fLN3jOIM8WNwzsdsdsdo",
-    "nickname": "黎叔",
+    "openid": "o7Zv3s_F0N3-h09fLN3jOIM8WNwzsdsdsdo",
+    "nickname": "name1",
     "sex": 1,
     "language": "zh_CN",
     "city": "杭州",
@@ -15,8 +15,8 @@ module.exports = [
   },
   {
     "subscribe": 1,
-    "openid": "o7Zv3sz9svh2lv_mMg1wewejY0OpU3Q8",
-    "nickname": "石庆年",
+    "openid": "o7Zv3sz92svh2lv_mMg1wewejY0OpU3Q8",
+    "nickname": "name2",
     "sex": 1,
     "language": "zh_CN",
     "city": "",
@@ -29,8 +29,8 @@ module.exports = [
   },
   {
     "subscribe": 0,
-    "openid": "o7Zv3s5yjTMDIICMZkcvcvcvLG71dyBDlg",
-    "nickname": "王魁",
+    "openid": "o7Zv3s5yjT2MDIICMZkcvcvcvLG71dyBDlg",
+    "nickname": "name3",
     "sex": 1,
     "language": "zh_CN",
     "city": "浦东新区",
