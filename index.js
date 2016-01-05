@@ -1,7 +1,7 @@
 var exportToExcel = require('export-to-excel');
 var sampleData = require('./data.js');
 
-exportToExcel.exportXLSX({
+var name = exportToExcel.exportXLSX({
     filename: '微信粉丝列表(2015-12-31)',
     sheetname: '微信粉丝列表',
     title: [
@@ -71,3 +71,5 @@ exportToExcel.exportXLSX({
     ],
     data: sampleData
 });
+
+console.log(name);
