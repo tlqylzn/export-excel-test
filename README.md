@@ -1,5 +1,4 @@
 # export-excel-test
-export excel demo
 
 Run environment
 - [nodejs](http://nodejs.org/)
